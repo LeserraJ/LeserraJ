@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an online game webstore
-- 🌱 I’m currently learning React.JS, Boostrap, PHP, Python, and SQL
+- 🔭 I’m currently working on a bookstore
+- 🌱 I’m proficient in  React.JS, Boostrap, Next.JS, Python, SQL, and Tailwind
 - 🤔 I’m currentley interested in: Web development and Cybersecurity
 - 📫 How to reach me: Email is always best: leserrabusiness@gmail.com
 - 😄 Pronouns: He/Him
