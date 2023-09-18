@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a bookstore
+- 🔭 I’m currently working on a order/inventory manager and a website for personal training
 - 🌱 I’m proficient in  React.JS, Boostrap, Next.JS, Python, SQL, and Tailwind
 - 🤔 I’m currentley interested in: Web development and Cybersecurity
 - 📫 How to reach me: Email is always best: leserrabusiness@gmail.com
